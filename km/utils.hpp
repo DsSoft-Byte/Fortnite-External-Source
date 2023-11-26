@@ -1,5 +1,6 @@
 #pragma once
 #include "defs.hpp"
+#include "intrin.h"
 
 namespace utils
 {

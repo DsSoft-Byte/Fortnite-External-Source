@@ -139,6 +139,7 @@ struct FNRot
 namespace cache
 {
 	inline uintptr_t uworld;
+	inline Vector3 relative_location;
 	inline uintptr_t game_instance;
 	inline uintptr_t local_players;
 	inline uintptr_t player_controller;
